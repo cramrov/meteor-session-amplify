@@ -4,6 +4,6 @@
     "homepage": "https://github.com/cramrov/meteor-session-amplify",
     "author": "Marc Rovira <marcrvall@gmail.com>",
     "git": "https://github.com/cramrov/meteor-session-amplify.git",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "packages": {}
 }
